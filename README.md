@@ -2,7 +2,6 @@
 - 💻 I'm a Student last-year of Engineering Informatics at University Indraprasta PGRI Jakarta, Indonesia
 - 👀 I’m currently looking jobs internship for Back-End, Java Developer
 - 🌱 I’m currently learning Java, MySQL, HTML, CSS.
-- 💞️ I’m looking to collaborate on ...
 
 # Github Stats
 ![Naufal GitHub stats](https://github-readme-stats.vercel.app/api?username=naufalsho&show_icons=true&theme=radical)
