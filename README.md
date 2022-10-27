@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Naufal Sholahuddin
-- 💻 I'm a Student last-year of Engineering Informatics at University Indraprasta PGRI Jakarta, Indonesia
-- 👀 I’m currently looking jobs internship for Back-End, Java Developer
-- 🌱 I’m currently learning Java, MySQL, HTML, CSS.
+- 💻 I'm Fresh Graduate with Bachelor Degree of Computer at University Indraprasta PGRI (UNINDRA) Jakarta, Indonesia
+- 👀 I’m currently looking jobs for Back-End, Java Developer
+- 🌱 
 
 # Github Stats
 ![Naufal GitHub stats](https://github-readme-stats.vercel.app/api?username=naufalsho&show_icons=true&theme=radical)
