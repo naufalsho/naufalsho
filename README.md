@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Naufal Sholahuddin
-- 💻 I'm Fresh Graduate with Bachelor Degree of Computer at University Indraprasta PGRI (UNINDRA) Jakarta, Indonesia
-- 👀 I’m currently looking jobs for Back-End, Java Developer
+- 💻Graduate with Bachelor Degree of Computer at University Indraprasta PGRI (UNINDRA) Jakarta, Indonesia
+- 👀 
 - 🌱 
 
 # Github Stats
